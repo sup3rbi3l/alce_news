@@ -20,7 +20,7 @@ a{
     border-style:solid;
     border-color: white;
     margin:1%;
-    border-width: 1%;
+    border-right: 0%;
     padding: 0%,2%,0%,2%;
     
 }
