@@ -12,5 +12,6 @@ align-items: center;
 a{
     border-style: double;
     border-color: white;
+    margin: 10%;
 
 }
