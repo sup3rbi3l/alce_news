@@ -19,8 +19,8 @@ margin: 2%;
 a{
     border-style:solid;
     border-color: white;
-    margin: 2%;
-
+    margin:1%;
+    border-width: 1%;
     padding: 0%,2%,0%,2%;
     
 }
