@@ -7,7 +7,7 @@ header{
 
 display: flex;
 flex-direction: column;
-align-items: center;
+text-align: center;
 border: 1px;
 border-color: white;
 border-style: solid;
@@ -17,7 +17,6 @@ a{
     border-style:solid;
     border-color: white;
     margin: 2%;
-    
     padding: 0%,20%,0%,20%;
 
 }
