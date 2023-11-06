@@ -10,7 +10,7 @@ flex-direction: column;
 align-items: center;
 }
 a{
-    border-style: double;
+    border-style:solid;
     border-color: white;
     margin: 2%;
     border-radius: 5%;
