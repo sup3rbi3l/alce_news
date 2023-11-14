@@ -109,3 +109,11 @@ color:brown;
     }
      
 }
+
+@media (min-width:1600px) {
+    .div_texto{
+        margin-right: 30%;
+        margin-left: 30%;
+    }
+     
+}
